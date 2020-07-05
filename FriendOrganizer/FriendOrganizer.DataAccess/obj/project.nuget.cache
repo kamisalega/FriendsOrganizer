@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CcSJ9x+dRK8Q8NXtp/+i13UaSYUnCvYa4pQa4/FJvQ1Si8mLOrHJ6f+C6S1HrCdS8sr88Gjg9N7Fjbfy8ZdKzg==",
+  "dgSpecHash": "ZpFM972Pw5Ku5H7lgY6cJTPd4gINp2gU4A4srd1GhPHNkwBCI5mHATAhe9lNFL03CPGAL4mh6WBdU0S/9vJLlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\Programowanie\\FriendOrganizer\\FriendOrganizer.DataAccess\\FriendOrganizer.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\Programowanie\\FriendsOrganizer\\FriendOrganizer\\FriendOrganizer.DataAccess\\FriendOrganizer.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

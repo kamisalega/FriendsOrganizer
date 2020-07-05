@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FriendOrganizer.UI.Data
 {
-    public class FriendDataService
+    public class FriendDataService : IFriendDataService
     {
         public IEnumerable<Friend> GetAll()
         {
