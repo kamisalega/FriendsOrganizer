@@ -1,9 +1,0 @@
-C:\Users\Lenovo\Documents\Programowanie\FriendsOrganizer\FriendOrganizer\FriendOrganizer.Model\bin\Debug\netstandard2.0\FriendOrganizer.Model.deps.json
-C:\Users\Lenovo\Documents\Programowanie\FriendsOrganizer\FriendOrganizer\FriendOrganizer.Model\bin\Debug\netstandard2.0\FriendOrganizer.Model.dll
-C:\Users\Lenovo\Documents\Programowanie\FriendsOrganizer\FriendOrganizer\FriendOrganizer.Model\bin\Debug\netstandard2.0\FriendOrganizer.Model.pdb
-C:\Users\Lenovo\Documents\Programowanie\FriendsOrganizer\FriendOrganizer\FriendOrganizer.Model\obj\Debug\netstandard2.0\FriendOrganizer.Model.csprojAssemblyReference.cache
-C:\Users\Lenovo\Documents\Programowanie\FriendsOrganizer\FriendOrganizer\FriendOrganizer.Model\obj\Debug\netstandard2.0\FriendOrganizer.Model.AssemblyInfoInputs.cache
-C:\Users\Lenovo\Documents\Programowanie\FriendsOrganizer\FriendOrganizer\FriendOrganizer.Model\obj\Debug\netstandard2.0\FriendOrganizer.Model.AssemblyInfo.cs
-C:\Users\Lenovo\Documents\Programowanie\FriendsOrganizer\FriendOrganizer\FriendOrganizer.Model\obj\Debug\netstandard2.0\FriendOrganizer.Model.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\Documents\Programowanie\FriendsOrganizer\FriendOrganizer\FriendOrganizer.Model\obj\Debug\netstandard2.0\FriendOrganizer.Model.dll
-C:\Users\Lenovo\Documents\Programowanie\FriendsOrganizer\FriendOrganizer\FriendOrganizer.Model\obj\Debug\netstandard2.0\FriendOrganizer.Model.pdb
