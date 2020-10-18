@@ -3,3 +3,4 @@ C:\Users\Lenovo\Documents\Programowanie\FriendsOrganizer\FriendOrganizer\FriendO
 C:\Users\Lenovo\Documents\Programowanie\FriendsOrganizer\FriendOrganizer\FriendOrganizer.Model\obj\Debug\FriendOrganizer.Model.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\Documents\Programowanie\FriendsOrganizer\FriendOrganizer\FriendOrganizer.Model\obj\Debug\FriendOrganizer.Model.dll
 C:\Users\Lenovo\Documents\Programowanie\FriendsOrganizer\FriendOrganizer\FriendOrganizer.Model\obj\Debug\FriendOrganizer.Model.pdb
+C:\Users\Lenovo\Documents\Programowanie\FriendsOrganizer\FriendOrganizer\FriendOrganizer.Model\obj\Debug\FriendOrganizer.Model.csprojAssemblyReference.cache
