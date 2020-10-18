@@ -1,11 +1,9 @@
 ﻿using FriendOrganizer.UI.ViewModel;
-using System;
-using System.Threading.Tasks;
 using System.Windows;
 
 namespace FriendOrganizer.UI
 {
-   
+
     public partial class MainWindow : Window
     {
         private MainViewModel _mainViewModel;
