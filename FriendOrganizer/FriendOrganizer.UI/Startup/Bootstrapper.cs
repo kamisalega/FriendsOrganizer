@@ -24,7 +24,7 @@ namespace FriendOrganizer.UI.Startup
             builder.RegisterType<LookupDataService>().AsImplementedInterfaces();
             builder.RegisterType<FriendDataService>().As<IFriendDataService>();
 
-            return builder.Build(); 
+            return builder.Build();
         }
     }
 }
