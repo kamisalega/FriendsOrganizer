@@ -86,12 +86,19 @@
     </ApplicationDefinition>
     <Compile Include="Data\IFriendLookupDataService.cs" />
     <Compile Include="Data\LookupDataService.cs" />
+    <Compile Include="Event\AfterFriendSavedEvent.cs" />
     <Compile Include="Event\OpenFriendDetailViewEvent.cs" />
+    <Compile Include="FriendOrganizerResource.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FriendOrganizerResource.resx</DependentUpon>
+    </Compile>
     <Compile Include="Startup\Bootstrapper.cs" />
     <Compile Include="ViewModel\FriendDetailViewModel.cs" />
     <Compile Include="ViewModel\IFriendDetailViewModel.cs" />
     <Compile Include="ViewModel\INavigationViewModel.cs" />
     <Compile Include="ViewModel\MainViewModel.cs" />
+    <Compile Include="ViewModel\NavigationItemViewModel.cs" />
     <Compile Include="ViewModel\NavigationViewModel.cs" />
     <Compile Include="ViewModel\ViewModelBase.cs" />
     <Compile Include="View\FriendDetailView.xaml.cs">
@@ -100,6 +107,9 @@
     <Compile Include="View\NavigationView.xaml.cs">
       <DependentUpon>NavigationView.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Wrapper\FriendWrapper.cs" />
+    <Compile Include="Wrapper\ModelWrapper.cs" />
+    <Compile Include="Wrapper\NotifyDataErrorInfoBase.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -137,6 +147,11 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <EmbeddedResource Include="FriendOrganizerResource.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>FriendOrganizerResource.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
